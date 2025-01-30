@@ -1,2 +1,2 @@
-# cTab
+# TikTab
 A simple yet beautiful and practical browser extension with features like:  Theme customization - Color settings - Background selection And much more...
